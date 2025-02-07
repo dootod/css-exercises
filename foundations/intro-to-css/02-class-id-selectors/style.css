@@ -1,0 +1,23 @@
+.nb-1 {
+    background-color: pink;
+    font-size: 20px;
+}
+#nb-2 {
+    color:blue;
+    font-size: 36px;
+    font-weight: 700;
+}
+.nb-3 {
+    background-color: pink;
+    font-size: 30px;
+    font-weight: 700;
+}
+#nb-4 {
+    background-color: greenyellow;
+    font-size: 36px;
+    font-weight: 900;
+}
+.nb-5 {
+    background-color: pink;
+    font-size: 20px;
+}
